@@ -12,7 +12,7 @@ public class Ex02 {
 
         // 다음 코드를 6번 반복
         for (Integer i = 1; 1 < 7; i = i + 1) {
-            System.out.println(num);
+            System.out.println(lottery);
         }
         //     0부터 9까지 숫자 중 랜덤한 숫자를 하나 생성해서 저장
 
