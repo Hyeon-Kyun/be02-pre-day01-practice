@@ -102,12 +102,12 @@ public class Ex03 {
                     System.out.printf(" ");
                 }
                 System.out.println("***");
-            }else if (i < 2) {
+            }else if (i < 4) {
                 for (Integer l = 1 ; l < 3 ; l = l+1) {
                     System.out.printf(" ");
                 }
                 System.out.println("*****");
-            }else if (i < 1) {
+            }else if (i < 5) {
                 for (Integer m = 1 ; m < 2 ; m = m+1) {
                     System.out.printf(" ");
                 }
